@@ -1,0 +1,30 @@
+path : Audio/Jaguar.wav
+name : Jaguar
+type : Loaded from memory
+path : Audio/Singing.wav
+name : Singing
+type : Loaded from memory
+path : Audio/Swish.wav
+name : Swish
+type : Loaded from memory
+path : Audio/Medieval_Music.wav
+name : Medieval Music
+type : Loaded from memory
+path : Audio/Battle_Music.wav
+name : Battle Music
+type : Loaded from memory
+path : Audio/Awesomeness.wav
+name : Awesomeness
+type : Streaming audio
+path : Audio/Piano_Music.wav
+name : Piano Music
+type : Streaming audio
+path : Audio/Wave.mp3
+name : Wave
+type : Streaming audio
+path : Audio/Soft_Music.mp3
+name : Soft Music
+type : Streaming audio
+path : Audio/Melody_Music.mp3
+name : Melody Music
+type : Streaming audio
